@@ -1,0 +1,231 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>72视频破解</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="./favicon.ico" rel="shortcut icon" />
+<meta name="author" content="fly" />
+<meta name="keywords" content="72视频破解" />
+<meta name="description" content="免费观看土豆,优酷,CNTV,新浪,搜狐等VIP视频,无广告！" />
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<script language="javascript" src="http://v.rpsofts.com/2/jquery.js"></script>
+<script src="http://v.rpsofts.com/2/jquery-1.7.1.min.js" type="text/javascript"></script>
+<link href="http://v.rpsofts.com/2/newcommons.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    var b = {};
+    $('[_t_nav]').hover(function() {
+        var a = $(this).attr('_t_nav');
+        clearTimeout(b[a + '_timer']);
+        b[a + '_timer'] = setTimeout(function() {
+            $('[_t_nav]').each(function() {
+                $(this)[a == $(this).attr('_t_nav') ? 'addClass' : 'removeClass']('nav-up-selected')
+            });
+            $('#' + a).stop(true, true).slideDown(200)
+        }, 150)
+    }, function() {
+        var a = $(this).attr('_t_nav');
+        clearTimeout(b[a + '_timer']);
+        b[a + '_timer'] = setTimeout(function() {
+            $('[_t_nav]').removeClass('nav-up-selected');
+            $('#' + a).stop(true, true).slideUp(200)
+        }, 150)
+    })
+});</script>
+</head>
+<body>
+
+  
+  
+<div class="head-v3">
+	<div class="navigation-up">
+		<div class="navigation-inner">
+			<div class="navigation-v3">
+				<ul>
+					<li class="nav-up-selected-inpage" _t_nav="home">
+						<h2>
+							<a href="http://www.72blog.com/">72blog</a>
+						</h2>
+					</li>
+					<li class="" _t_nav="hd">
+						<h2>
+							<a href="http://www.72blog.com/mov">高清电影</a>
+						</h2>
+					</li>
+					<li class="" _t_nav="yun">
+						<h2>
+							<a href="http://www.72blog.com/yun/">云点播</a>
+						</h2>
+					</li>
+
+					<li class="" _t_nav="baidu">
+						<h2>
+							<a href="http://v.rpsofts.com/vip">优酷vip破解</a>
+						</h2>
+					</li>
+					<li _t_nav="about">
+						<h2>
+							<a href="http://www.72blog.com/about">关于我们</a>
+						</h2>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+<div class="centers">
+
+    <div class="searchs">
+        <div class="from">
+          <input name="url" id="url" type="text" class="text" value="http://v.youku.com/v_show/id_XNjc1ODMzMDg4.html" /><input name="doplayers" type="button" id="doplayers" class="button" value="立即播放" />
+        </div>
+      
+        <div id="clear"></div>
+    </div>
+    <div id="ckplays"></div> 
+    <div class="tips">
+            <div id="clear" class="height20"></div>
+			<strong>现已支持以下网站视频播放：</strong>
+            <div class="logos_lists">
+                <dl>
+                	<dt><img src="./2/letvlogo.png" /></dt>
+                    <dd>乐视TV视频</dd>
+                </dl>
+				<dl>
+                	<dt><img src="./2/qqlogo.png" /></dt>
+                    <dd>腾讯视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/youkulogo.png" /></dt>
+                    <dd>优酷视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/tudoulogo.png" /></dt>
+                    <dd>土豆视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/56logo.png" /></dt>
+                    <dd>56视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/ku6logo.png" /></dt>
+                    <dd>酷6视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/wasulogo.png" /></dt>
+                    <dd>WASU华数视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/yinyuetailogo.png" /></dt>
+                    <dd>音悦台MV</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/hunantvlogo.png" /></dt>
+                    <dd>芒果TV视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/sinalogo.png" /></dt>
+                    <dd>新浪视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/163logo.png" /></dt>
+                    <dd>网易视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/sohulogo.png" /></dt>
+                    <dd>搜狐视频</dd>
+                </dl>
+				<dl>
+                	<dt><img src="./2/6logo.png" /></dt>
+                    <dd>6间房视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/kugoulogo.png" /></dt>
+                    <dd>酷狗MV视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/baomihualogo.png" /></dt>
+                    <dd>爆米花视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/ifenglogo.png" /></dt>
+                    <dd>凤凰视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/kankannewslogo.png" /></dt>
+                    <dd>看看新闻网视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/mtimelogo.png" /></dt>
+                    <dd>时光网视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/kuwologo.png" /></dt>
+                    <dd>酷我音乐MV视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/1905logo.png" /></dt>
+                    <dd>1905电影网视频</dd>
+                </dl>
+				<dl>
+                	<dt><img src="./2/tangdoulogo.png" /></dt>
+                    <dd>糖豆视频</dd>
+                </dl>
+                <dl>
+                	<dt><img src="./2/cntvlogo.png" /></dt>
+                    <dd>央视网</dd>
+                </dl>
+                <div class="wait">近期开放更多，敬请关注...</div>
+            </div>
+
+    </div>
+</div>
+  
+
+  
+<script type="text/javascript" src="http://v.rpsofts.com/2/swfobjects.js"></script>
+<script type="text/javascript" src="http://v.rpsofts.com/2/ckplayer.js" charset="utf-8"></script>
+<script type="text/javascript">
+players();
+$("#doplayers").bind("click", function() {
+    players()
+});
+
+function players() {
+    var a = $('#url').val();
+    if ($('#url').val() == "") {
+        alert('请输入视频网站网址！');
+        $('#url').focus();
+        return (false)
+    }
+    var b = {
+      f: 'http://v.rpsofts.com/api/index.php?url=' + a,
+        c: 0,
+        s: 2,
+        p: 1,
+        b: 1,
+    };
+    var c = {
+        bgcolor: '#FFF',
+        allowFullScreen: true,
+        allowScriptAccess: 'always',
+        wmode: 'transparent'
+    };
+  var d = ['http://v.rpsofts.com/api/index.php?url=' + a + '&mobile'];
+    var e = ['iPad', 'iPhone', 'ios', 'android+false', 'msie10+false'];
+    CKobject.embed('http://v.rpsofts.com/ckplayer/ckplayer.swf', 'ckplays', 'ckplayer_mains', '100%', '500', false, b, d, c)
+}
+
+function addhtml5() {
+    if (CKobject.isHTML5()) {
+        support = ['all'];
+        CKobject._K_('moveid').innerHTML = '';
+        CKobject.embedHTML5('moveid', 'ckplayer_a1', '100%', 530, video, flashvars, support)
+    } else {
+        addflash()
+    }
+}
+</script>
+</div>
+</body>
+</html>
