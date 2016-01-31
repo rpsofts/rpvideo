@@ -7,8 +7,6 @@ function cget($url) {
 	curl_setopt($ch, CURLOPT_AUTOREFERER, true);
 	curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 		"Appkey: TkpWeC1uNmFidA==",
-		"Referer: http://www.videojj.com",
-		"Origin: http://www.videojj.com"
 	));
 	curl_setopt($ch, CURLOPT_TIMEOUT, 6);
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
