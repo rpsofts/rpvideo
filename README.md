@@ -10,7 +10,7 @@ php解析国内视频站点解析源码。。。普通php空间即可运行，�
 	<iframe src="http://v.rpsofts.com/vip/v.php?url=你要调用的视频地址" frameborder="0" autoplay="1" scrolling="1" width="100%" height="100%" allowtransparency></iframe>
 
 例如：http://v.rpsofts.com/vip/v.php?url=http://v.youku.com/v_show/id_XMTI4NTY3MTY1Mg==.html
-或者http://v.rpsofts.com/i.php?url=http://v.youku.com/v_show/id_XMTI4NTY3MTY1Mg==.html
+或者http://v.rpsofts.com/i.php?url=http://v.youku.com/v_show/id_XMTQyMTQ1ODE4NA==.html
 
 
 你有权利使用、复制、修改、合并、出版发行、散布、再授权及贩售软件及软件的副本。
