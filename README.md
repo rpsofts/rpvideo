@@ -18,7 +18,7 @@ php解析国内视频站点解析源码。。。普通php空间即可运行，�
 
 v1.5 增加m3u8直播播放，，例如 CCTV5+ 演示 http://v.rpsofts.com/api/tv.php?url=http://cctv5plus.vtime.cntv.cloudcdn.net:8500/cache/257_/seg0/index.m3u8
 
-战旗tv解析：http://v.rpsofts.com/api/tv2.php?url=rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/36154_seAA8
+战旗tv解析：http://v.rpsofts.com/api/tv2.php?url=rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/53346_ESoth
 
 下一步会增加 国内主流网盘解析，，，  
 例如：乐视云盘 ，，http://v.rpsofts.com/api/le.php?url=49788354   360，天翼等。
