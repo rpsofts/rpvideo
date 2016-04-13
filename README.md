@@ -18,7 +18,7 @@ php解析国内视频站点解析源码。。。普通php空间即可运行，�
 
 v1.5 增加m3u8直播播放，，例如 CCTV5+ 演示 http://v.rpsofts.com/api/tv.php?url=http://cctv5plus.vtime.cntv.cloudcdn.net:8500/cache/257_/seg0/index.m3u8
 
-战旗tv解析：http://v.rpsofts.com/api/tv
+战旗tv解析：(已经支持全部战旗tv解析（任意房间），，手机版采用m3u8，后续同斗鱼tv解析一起发布，你可以一键整合到你的app或者网站之中，让你的网站支持在线直播)
 
 下一步会增加 国内主流网盘解析，，，  
 例如：乐视云盘 ，，http://v.rpsofts.com/api/le.php?url=49788354   360，天翼等。
