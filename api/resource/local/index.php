@@ -13,7 +13,7 @@ define('CHARSET', 'UTF-8');
     } else { 
     $realip = $_SERVER['REMOTE_ADDR']; 
     } 
-  $name = "QQ：1145010202"; 
+  $name = "QQ：78078142"; 
   $xml .= '<?xml version="1.0" encoding="utf-8"?>'.chr(13);
 	$xml .= '	<Information>'.chr(13);
 	$xml .= '<ip><![CDATA['.$realip.']]></ip>'.chr(13);
@@ -22,15 +22,12 @@ define('CHARSET', 'UTF-8');
    echo $xml;
 
 	}
-
-//飞驴配置
-include_once('./config/flvxz.php');
 //系统配置
 include_once('./config/global.php');
 //载入核心文件
 include_once('./function/core.php');
   ob_start();
 //加载解析配置 
-	include_once('/function/vod.php');
+include_once('/function/vod.php');
 
 ?>
